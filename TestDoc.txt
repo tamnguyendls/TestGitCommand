@@ -1,3 +1,20 @@
 First test document
+Second test develop
 
 Second line for test develop branch of git flow
+
+Add GIT flow
+
+
+SourceTree HOW:
+
+1. How to merge feature/featureBranch in to develop branch?
+=> Do these following steps:
+    - Stand at Develop branch
+    - Right-click on feature/featureBranch that is going to be merged
+    - Choose "Merge feature/featureBranch into current branch"
+    - A "Confirm Merge" message box appear 
+        => tick into "Create a new commit even if fast-forward is possible"
+        => Click "OK"
+    - In develop branch commit/push new merged branch with log "Merge branch 'feature/featureBranch' into develop"
+
