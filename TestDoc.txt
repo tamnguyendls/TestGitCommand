@@ -18,3 +18,8 @@ SourceTree HOW:
         => Click "OK"
     - In develop branch commit/push new merged branch with log "Merge branch 'feature/featureBranch' into develop"
 
+2. What happend if we do followings:
+    Create a feature branch, modified some things, several times of committing, then merge that feature branch into develop.
+    Finaly we delete the feature branch. It is existing some where od deleted permanent
+    
+    => Need to be answered...
