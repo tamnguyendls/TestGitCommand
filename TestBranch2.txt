@@ -3,3 +3,5 @@ Test branch 2
 First commit
 
 Second commit
+
+Third commit
